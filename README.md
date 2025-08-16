@@ -1,6 +1,6 @@
 ![XIF](images/1427.jpg)
 # Cyberdev's Xinfinty 3.0 Add-On Installer
-This mods XInfinity with extra applications that the OS didn't install upon installation!
+This mods XInfinity with extra applications that the OS didn't install upon installation! (this project is not affhilated with the team of XInfinity, this is a mod for their custom rom)
 
 ## What is this?
 This mod allows you to mod XInfinity v3.x and adds additional new apps that the OS did not install, however this mod has limitations so please read this carefully so that you are aware of these limitations!
