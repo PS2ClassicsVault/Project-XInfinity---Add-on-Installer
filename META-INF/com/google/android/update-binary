@@ -106,7 +106,7 @@ compute_apps_size() {
 
 ui_print "*******************************"
 ui_print "          Cyberdev's           "
-ui_print "  XInfinity 3.0 8/16/25 Add-On  "
+ui_print " Infinity X 3.x 8/16/25 Add-On "
 ui_print "         Installer v1.0        "
 ui_print ".      Android 16 SDK 36       "
 ui_print "*******************************"
@@ -305,7 +305,7 @@ for f in `find . -type f`; do
 done
 
 ui_print "Installation Progress:95%"
-ui_print "Installing XInfinity v3.0 Mod, Please wait.."
+ui_print "Installing Infinity X v3.x Mod, Please wait.."
 ui_print "Installing Google Play Protect STUB.."
 ui_print "Installing Gmail..."
 ui_print "Installing Google Find My Device.."
