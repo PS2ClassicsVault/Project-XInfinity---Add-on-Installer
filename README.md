@@ -1,19 +1,19 @@
 ![XIF](images/1427.jpg)
-# Cyberdev's Xinfinty 3.0 Add-On Installer
-This mods XInfinity with extra applications that the OS didn't install upon installation! (this project is not affhilated with the team of XInfinity, this is a mod for their custom rom)
+# Cyberdev's Infinity X 3.0 Add-On Installer
+This mods Infinity X with extra applications that the OS didn't install upon installation! (this project is not affhilated with the team of XInfinity, this is a mod for their custom rom)
 
 ## What is this?
-This mod allows you to mod XInfinity v3.x and adds additional new apps that the OS did not install, however this mod has limitations so please read this carefully so that you are aware of these limitations!
+This mod allows you to mod Infinity X v3.x and adds additional new apps that the OS did not install, however this mod has limitations so please read this carefully so that you are aware of these limitations!
 
 ## Need the tweaks for XInfinty?..Please read!
-If your looking for build.prop tweaks for XInfinity, we have converted the tweaks into a magisk module, you can download the magisk module from [here](url)
+If your looking for build.prop tweaks for Infinity X, we have converted the tweaks into a magisk module, you can download the magisk module from [here](url)
 
 There is important information you must be aware of before using the the magisk module:
 
 - This module is NOT compatible with APatch (we chose this because magisk is the most best and common root method and majority of modules support it more then apatch does!)
 - This module requires you to be on magisk v20.4 or higher
 - Your version of crDroid must match the version we have available, if you do not have the right version installed you will encounter issues
-- The magisk module is not release date dependent its XIF Version dependent such at 3.x etc.
+- The magisk module is not release date dependent its IFX Version dependent such at 3.x etc.
 - When using this module you will lose the ability to install updates via OTA unless you disable the magisk module first, reboot and then perform the installation.
 
 ## Limitations:
@@ -52,7 +52,7 @@ To install you will need the following things:
 
 - PC/Laptop
 - Google OEM USB Drivers already installed, you do not have them you can download the drivers from [here](https://developer.android.com/studio/run/win-usb)
-- XInfinity already installed; if you do not have XInfinity and need it you may lookup to see if your device is supported by going [here](https://projectinfinity-x.com/)
+- Infinity X already installed; if you do not have Infinity X and need it you may lookup to see if your device is supported by going [here](https://projectinfinity-x.com/)
 - Up-To-Date platform-tools for adb functionality (if you need the latest platform-tools you can download it from [here](https://technastic.com/android-sdk-platform-tools-download/)
 - crDroids custom recovery.
 
